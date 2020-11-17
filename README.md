@@ -1,1 +1,1 @@
-# ResponsiveBlog
+# Responsive Blog
